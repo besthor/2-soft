@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-Why Python programming is awesome Welcome to the Python world!
+# A dream doesn't become reality through magic; it takes sweat, determination and hard work
